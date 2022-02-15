@@ -270,6 +270,24 @@
 			<key>URL</key>
 			<string>https://cems.zhouzifei.com/upload/h5?view=sit</string>
 		</dict>
+		<dict>
+			<key>AssetTagInformation</key>
+			<string>ziyuan</string>
+			<key>IfLostReturnToMessage</key>
+			<string>suopxonn</string>
+			<key>PayloadDescription</key>
+			<string>配置共享设备的所有权信息</string>
+			<key>PayloadDisplayName</key>
+			<string>锁屏信息</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.shareddeviceconfiguration.C367E880-1D63-41E6-8CDE-357FC74ED3A9</string>
+			<key>PayloadType</key>
+			<string>com.apple.shareddeviceconfiguration</string>
+			<key>PayloadUUID</key>
+			<string>C367E880-1D63-41E6-8CDE-357FC74ED3A9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>PayloadDescription</key>
 	<string>仅供内部使用请勿商用</string>
@@ -284,7 +302,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>06513F54-D5AE-424B-A72C-66EF2AE3A170</string>
+	<string>A7AC0507-1413-4A3D-BF5B-DEC1A0D5FA3C</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
