@@ -10,8 +10,8 @@
   "docsify": {
     "config": {
       "basePath": "https://docsify.js.org/",
-      "loadSidebar": true,
-      "loadNavbar": true,
+      "loadSidebar": false,
+      "loadNavbar": false,
       "coverpage": true,
       "name": "docsify"
     }
